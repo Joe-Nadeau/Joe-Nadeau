@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joe-Nadeau
-- 👀 I’m interested in data analysis and web development
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking for work as a data analyst or web developer
+- 👀 I’m interested in software engineering and embedded systems
+- 🌱 I’m currently pursuing a MS in Computer Science at Stevens Instutute of Technology
+- 💞️ I’m looking for work as a software engineer or embedded systems engineer
 - 📫 How to reach me: jnadeau133@gmail.com
